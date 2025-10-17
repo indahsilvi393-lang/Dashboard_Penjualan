@@ -1,8 +1,4 @@
 # 🧾 Dashboard Penjualan
-
-![Dashboard Penjualan](https://raw.githubusercontent.com/indahsilvi393-lang/main/Dashboard_Penjualan.png)
-
-## 📊 Deskripsi Umum
 Dashboard ini dibuat untuk **menganalisis performa penjualan** berdasarkan data transaksi dalam periode tertentu.  
 Tujuannya adalah memberikan **gambaran visual** mengenai tren penjualan mingguan, kategori produk terlaris, jenis pengiriman yang paling sering digunakan, serta kota dengan nilai penjualan tertinggi.
 
